@@ -1,0 +1,21 @@
+
+=== INSIGHTS IBM HR ANALYTICS ===
+Data: 2025-12-22 02:17
+Plataforma: GitHub Code Spaces
+
+DESCOBERTAS PRINCIPAIS:
+1. Taxa de atrito geral: 16.1%
+2. Departamento crítico: Sales (20.6%)
+3. Perfil de risco: Funcionários mais jovens, menor salário, menor tempo na empresa
+4. Fator financeiro: Diferença salarial de $2046 entre quem sai e permanece
+
+RECOMENDAÇÕES:
+1. Implementar programa de mentoria para funcionários com <2 anos de empresa
+2. Revisão salarial para as faixas de menor renda
+3. Programa de desenvolvimento de carreira com promoções regulares
+4. Pesquisa de satisfação trimestral com plano de ação
+
+KPIs DE SUCESSO:
+- Reduzir taxa de atrito em 25% nos próximos 12 meses
+- Aumentar satisfação no trabalho em 15%
+- Melhorar retenção de talentos em 20%
