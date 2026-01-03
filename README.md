@@ -13,4 +13,11 @@ As perguntas de negócio que orientam a análise são:
 3. Existem cargos ou departamentos com maior incidência de Attrition?
 4. Quais padrões podem auxiliar na redução da rotatividade?
 
+## Coleta de Dados
+
+Os dados foram obtidos a partir do dataset público IBM HR Analytics Employee
+Attrition, disponível na plataforma Kaggle.
+
+A coleta foi realizada por meio de um script em Python, que simula a ingestão
+dos dados em um ambiente de nuvem, persistindo-os na camada RAW do Data Lake.
 
