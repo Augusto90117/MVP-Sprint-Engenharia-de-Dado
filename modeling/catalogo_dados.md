@@ -1,6 +1,6 @@
 ## Catálogo de Dados
 
-###🔹 Age
+### Age
 
 Tipo: Inteiro
 
