@@ -8,7 +8,7 @@ Domínio: 18–60
 
 Descrição: Idade do funcionário.
 
-###🔹 Attrition
+### Attrition
 
 Tipo: Categórico
 
@@ -16,7 +16,7 @@ Valores: Yes, No
 
 Descrição: Indica se o funcionário deixou a empresa.
 
-###🔹 BusinessTravel
+### BusinessTravel
 
 Tipo: Categórico
 
@@ -24,7 +24,7 @@ Valores: Travel_Rarely, Travel_Frequently, Non-Travel
 
 Descrição: Frequência de viagens a trabalho.
 
-###🔹 DailyRate
+### DailyRate
 
 Tipo: Inteiro
 
@@ -32,7 +32,7 @@ Domínio: 100–1500
 
 Descrição: Valor da taxa diária de remuneração.
 
-###🔹 Department
+### Department
 
 Tipo: Categórico
 
@@ -40,7 +40,7 @@ Valores: Sales, Research & Development, Human Resources
 
 Descrição: Departamento em que o funcionário atua.
 
-###🔹 DistanceFromHome
+### DistanceFromHome
 
 Tipo: Inteiro
 
@@ -48,7 +48,7 @@ Domínio: 1–30
 
 Descrição: Distância entre a residência do funcionário e o local de trabalho.
 
-###🔹 Education
+### Education
 
 Tipo: Inteiro
 
@@ -56,7 +56,7 @@ Domínio: 1–5
 
 Descrição: Nível de escolaridade do funcionário.
 
-###🔹 EducationField
+### EducationField
 
 Tipo: Categórico
 
@@ -64,7 +64,7 @@ Valores: Life Sciences, Medical, Marketing, Technical Degree, Human Resources, O
 
 Descrição: Área de formação educacional.
 
-###🔹 EnvironmentSatisfaction
+### EnvironmentSatisfaction
 
 Tipo: Inteiro
 
@@ -72,7 +72,7 @@ Domínio: 1–4
 
 Descrição: Grau de satisfação com o ambiente de trabalho.
 
-###🔹 Gender
+### Gender
 
 Tipo: Categórico
 
@@ -80,7 +80,7 @@ Valores: Male, Female
 
 Descrição: Gênero do funcionário.
 
-###🔹 HourlyRate
+### HourlyRate
 
 Tipo: Inteiro
 
@@ -88,7 +88,7 @@ Domínio: 30–100
 
 Descrição: Valor da taxa horária de remuneração.
 
-###🔹 JobInvolvement
+### JobInvolvement
 
 Tipo: Inteiro
 
@@ -96,7 +96,7 @@ Domínio: 1–4
 
 Descrição: Grau de envolvimento com o trabalho.
 
-###🔹 JobLevel
+### JobLevel
 
 Tipo: Inteiro
 
@@ -104,7 +104,7 @@ Domínio: 1–5
 
 Descrição: Nível hierárquico do cargo.
 
-###🔹 JobRole
+### JobRole
 
 Tipo: Categórico
 
@@ -112,7 +112,7 @@ Valores: Sales Executive, Research Scientist, Laboratory Technician, Manufacturi
 
 Descrição: Função exercida pelo funcionário.
 
-###🔹 JobSatisfaction
+### JobSatisfaction
 
 Tipo: Inteiro
 
@@ -120,7 +120,7 @@ Domínio: 1–4
 
 Descrição: Grau de satisfação com o cargo.
 
-###🔹 MaritalStatus
+### MaritalStatus
 
 Tipo: Categórico
 
@@ -128,7 +128,7 @@ Valores: Single, Married, Divorced
 
 Descrição: Estado civil do funcionário.
 
-###🔹 MonthlyIncome
+### MonthlyIncome
 
 Tipo: Inteiro
 
@@ -136,7 +136,7 @@ Domínio: 1000–20000
 
 Descrição: Renda mensal do funcionário.
 
-###🔹 NumCompaniesWorked
+### NumCompaniesWorked
 
 Tipo: Inteiro
 
@@ -144,7 +144,7 @@ Domínio: 0–10
 
 Descrição: Quantidade de empresas em que o funcionário já trabalhou.
 
-###🔹 OverTime
+### OverTime
 
 Tipo: Categórico
 
@@ -152,7 +152,7 @@ Valores: Yes, No
 
 Descrição: Indica se o funcionário realiza horas extras.
 
-###🔹 PercentSalaryHike
+### PercentSalaryHike
 
 Tipo: Inteiro
 
@@ -160,7 +160,7 @@ Domínio: 10–25
 
 Descrição: Percentual de aumento salarial.
 
-###🔹 PerformanceRating
+### PerformanceRating
 
 Tipo: Inteiro
 
@@ -168,7 +168,7 @@ Domínio: 1–4
 
 Descrição: Avaliação de desempenho do funcionário.
 
-###🔹 RelationshipSatisfaction
+### RelationshipSatisfaction
 
 Tipo: Inteiro
 
@@ -176,7 +176,7 @@ Domínio: 1–4
 
 Descrição: Grau de satisfação com os relacionamentos no trabalho.
 
-###🔹 StockOptionLevel
+### StockOptionLevel
 
 Tipo: Inteiro
 
@@ -184,7 +184,7 @@ Domínio: 0–3
 
 Descrição: Nível de opções de ações oferecidas.
 
-###🔹 TotalWorkingYears
+### TotalWorkingYears
 
 Tipo: Inteiro
 
@@ -192,7 +192,7 @@ Domínio: 0–40
 
 Descrição: Total de anos de experiência profissional.
 
-###🔹 TrainingTimesLastYear
+### TrainingTimesLastYear
 
 Tipo: Inteiro
 
@@ -200,7 +200,7 @@ Domínio: 0–6
 
 Descrição: Quantidade de treinamentos realizados no último ano.
 
-###🔹 WorkLifeBalance
+### WorkLifeBalance
 
 Tipo: Inteiro
 
@@ -208,7 +208,7 @@ Domínio: 1–4
 
 Descrição: Avaliação do equilíbrio entre vida pessoal e profissional.
 
-###🔹 YearsAtCompany
+### YearsAtCompany
 
 Tipo: Inteiro
 
